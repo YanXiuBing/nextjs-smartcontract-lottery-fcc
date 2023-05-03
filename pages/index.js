@@ -18,6 +18,7 @@ export default function Home() {
       {/* <ManualHeader></ManualHeader> */}
       <Header></Header>
       <LotteryEntrance></LotteryEntrance>
+      <div>添加测试</div>
 
       <main className={`${styles.main} ${inter.className}`}></main>
     </div>
